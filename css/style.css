@@ -20,14 +20,12 @@ header nav div img {
 }
 
 main h1 {
-  margin-top: 20%;
+  margin-top: 50%;
   display: flex;
   justify-content: center;
 }
 main div img {
   width: 100px;
-  display: flex;
-  justify-items: center;
 }
 
 footer {
