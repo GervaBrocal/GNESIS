@@ -9,6 +9,7 @@ body {
   font-size: larger;
   font-weight: 18px;
   color: whitesmoke;
+  font-family: sans-serif, "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 header nav {
@@ -27,6 +28,26 @@ main div img {
   width: 100px;
   display: flex;
   justify-items: center;
+}
+
+footer {
+  list-style: none;
+  margin-top: 30%;
+}
+footer div h2 {
+  text-decoration: underline;
+  margin-top: 10px;
+  margin-left: 19px;
+}
+footer div img {
+  width: 100px;
+}
+footer ul {
+  list-style: none;
+}
+footer ul h2 {
+  text-decoration: underline;
+  margin-left: -20px;
 }
 
 /*# sourceMappingURL=style.css.map */
