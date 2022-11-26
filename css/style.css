@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(/img/purple-galaxy-background.jpg);
+  font-size: larger;
+  font-weight: 18px;
+  color: whitesmoke;
+}
+
+header nav {
+  border-bottom: 2px solid blueviolet;
+}
+header nav div img {
+  width: 100px;
+}
+
+main h1 {
+  margin-top: 20%;
+  display: flex;
+  justify-content: center;
+}
+main div img {
+  width: 100px;
+  display: flex;
+  justify-items: center;
+}
+
+/*# sourceMappingURL=style.css.map */
