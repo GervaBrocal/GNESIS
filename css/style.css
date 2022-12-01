@@ -26,6 +26,7 @@ main h1 {
 }
 main div img {
   width: 100px;
+  height: 50%;
 }
 
 footer {
