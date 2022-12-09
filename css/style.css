@@ -1,3 +1,4 @@
+@import url(_contacto.scss);
 * {
   margin: 0;
   padding: 0;
@@ -27,9 +28,11 @@ main h1 {
 main div img {
   width: 100px;
   height: 50%;
+  box-shadow: whitesmoke;
 }
 
 footer {
+  background-color: black;
   list-style: none;
   margin-top: 30%;
 }
